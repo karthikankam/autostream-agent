@@ -5,6 +5,8 @@ from langgraph.checkpoint.memory import MemorySaver
 from langchain_nvidia_ai_endpoints import ChatNVIDIA
 from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 import operator
+from dotenv import load_dotenv
+load_dotenv()
 
 
 class AgentState(TypedDict):
