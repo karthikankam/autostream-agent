@@ -1,4 +1,4 @@
-# AutoStream AI Agent
+[# AutoStream AI Agent
 ### Social-to-Lead Agentic Workflow | ServiceHive ML Intern Assignment
 
 A conversational AI agent that qualifies leads from social media conversations using **LangGraph**, **RAG**, and **Claude 3 Haiku**.
@@ -180,3 +180,4 @@ autostream-agent/
 - ✅ Tool execution only after all data collected
 - ✅ WhatsApp deployment explanation
 ## check the app at https://autostream-agent-5scorh8a7bzkw5hztmnez7.streamlit.app/
+](https://github.com/karthikankam/autostream-agent.git)
