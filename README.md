@@ -179,3 +179,4 @@ autostream-agent/
 - ✅ Lead collection (name, email, platform)
 - ✅ Tool execution only after all data collected
 - ✅ WhatsApp deployment explanation
+## check the app at https://autostream-agent-5scorh8a7bzkw5hztmnez7.streamlit.app/
